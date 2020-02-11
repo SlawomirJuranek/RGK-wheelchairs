@@ -1,0 +1,52 @@
+	h1{	font: 30pt Verdana;
+		color:#000000; text-align:centre;}
+	h2{	font :12pt verdana, serif; 
+		color:#000000; text-align:centre;}	
+	h3{	font: 20pt verdana, serif;
+		color:#000000; text-align:centre;}
+	h4{ font: 15pt serif;
+	color: #ffffff; text-align:centre;}	
+
+	hr{ background-color:#000000
+		color: #ffffff;
+		height: 200px;}
+	a {color:#ff0000}
+#header{
+	Background-color:#66ccff;
+	color:#000000;
+	text-align:left;
+	padding:10px;
+	width:350px;
+}
+#header2{
+	Background-color:#ffffff;
+	color:#000000;
+	text-align:left;
+	padding:20px;
+	width:500px;
+	float:right;
+}
+body{
+	background-color: #b0e0e6;
+	background-image:url("elitergkchairx2019banner.png");
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:75% 50%;
+	font-family:Helvetica, Arial, sans-serif;
+}
+	
+#footer{
+color:#eeeeee;
+text-align:right;
+padding:10px;
+float:right;
+}
+#content{
+	Background-color:#ffffff;
+	color:#ff0000;
+	text-align:left;
+	padding:10px;
+	width:1550px;
+
+}
+	
